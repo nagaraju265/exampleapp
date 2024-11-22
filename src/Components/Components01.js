@@ -3,7 +3,7 @@ import React from 'react'
 function Components01() {
   return (
     <div>
-      <h1>Hello I am Compoenent One(01) </h1>
+      <h1>Hi I am a Component One..!! </h1>
     </div>
   )
 }
